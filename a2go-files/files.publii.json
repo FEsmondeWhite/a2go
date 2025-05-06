@@ -1,0 +1,567 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "b04c77fa5d981a3d866c48755058fd57"
+    },
+    {
+        "path": "a2-go-robotics-team",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a2-go-robotics-team/index.html",
+        "type": "file",
+        "md5": "674879506f18926184986e6b89596ea6"
+    },
+    {
+        "path": "about-ftc",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-ftc/index.html",
+        "type": "file",
+        "md5": "076c979924a9987cfe076957bf31eccf"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "68ebef1b1675aa1aa577c9edb366f816"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/francis-esmonde-white",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/francis-esmonde-white/index.html",
+        "type": "file",
+        "md5": "f6d479517c71791920b4c6f1f0b9fcc8"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "30d7265d027a440cef3494d41543e349"
+    },
+    {
+        "path": "links",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/links/index.html",
+        "type": "file",
+        "md5": "62e12d2204812bea4837baf578a2b135"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/BlocklyScreenshot.png",
+        "type": "file",
+        "md5": "187dc2d62edc9bdfdc9b37fa84f4b7e9"
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/FusionClawModel-thumbnail.png",
+        "type": "file",
+        "md5": "a0e13792933af1df745e4c0d55638a78"
+    },
+    {
+        "path": "/media/posts/1/gallery/FusionClawModel.png",
+        "type": "file",
+        "md5": "0169cb74e7f42219cf979c2d583ed80d"
+    },
+    {
+        "path": "/media/posts/1/gallery/RobotFusionModel-thumbnail.png",
+        "type": "file",
+        "md5": "5392573fa7c2493203e3d24a51772187"
+    },
+    {
+        "path": "/media/posts/1/gallery/RobotFusionModel.png",
+        "type": "file",
+        "md5": "1b411342e2accd18079171f63db715bb"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/BlocklyScreenshot-2xl.png",
+        "type": "file",
+        "md5": "9290d88754d6374402009d5c9d88ea36"
+    },
+    {
+        "path": "/media/posts/1/responsive/BlocklyScreenshot-lg.png",
+        "type": "file",
+        "md5": "2e2a9d73cf796f7f4f5d386a5b9a139c"
+    },
+    {
+        "path": "/media/posts/1/responsive/BlocklyScreenshot-md.png",
+        "type": "file",
+        "md5": "00dd8ae18316bc70e9ff1af48bb070a7"
+    },
+    {
+        "path": "/media/posts/1/responsive/BlocklyScreenshot-sm.png",
+        "type": "file",
+        "md5": "197b2208ae8b0a6e53f131aeaa3307db"
+    },
+    {
+        "path": "/media/posts/1/responsive/BlocklyScreenshot-xl.png",
+        "type": "file",
+        "md5": "3901631e7e73edac27a4dbe26cc72d36"
+    },
+    {
+        "path": "/media/posts/1/responsive/BlocklyScreenshot-xs.png",
+        "type": "file",
+        "md5": "0cdf63e22bbf02986517dce702361fe1"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/ArmControls.png",
+        "type": "file",
+        "md5": "7c78c819df62f8d0f39062aa6c9b8b0f"
+    },
+    {
+        "path": "/media/posts/3/DriveControls.png",
+        "type": "file",
+        "md5": "8341123686d18c7a10f48af3fee760f9"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/ArmControls-2xl.png",
+        "type": "file",
+        "md5": "5b08672470924596d283cee90eeff8dd"
+    },
+    {
+        "path": "/media/posts/3/responsive/ArmControls-lg.png",
+        "type": "file",
+        "md5": "5b08672470924596d283cee90eeff8dd"
+    },
+    {
+        "path": "/media/posts/3/responsive/ArmControls-md.png",
+        "type": "file",
+        "md5": "5b08672470924596d283cee90eeff8dd"
+    },
+    {
+        "path": "/media/posts/3/responsive/ArmControls-sm.png",
+        "type": "file",
+        "md5": "5b08672470924596d283cee90eeff8dd"
+    },
+    {
+        "path": "/media/posts/3/responsive/ArmControls-xl.png",
+        "type": "file",
+        "md5": "5b08672470924596d283cee90eeff8dd"
+    },
+    {
+        "path": "/media/posts/3/responsive/ArmControls-xs.png",
+        "type": "file",
+        "md5": "9ae8b531a3f553cd2e24309d03c0cb03"
+    },
+    {
+        "path": "/media/posts/3/responsive/DriveControls-2xl.png",
+        "type": "file",
+        "md5": "9709ba1751f1eb3accf3a16fd6059c42"
+    },
+    {
+        "path": "/media/posts/3/responsive/DriveControls-lg.png",
+        "type": "file",
+        "md5": "9709ba1751f1eb3accf3a16fd6059c42"
+    },
+    {
+        "path": "/media/posts/3/responsive/DriveControls-md.png",
+        "type": "file",
+        "md5": "9709ba1751f1eb3accf3a16fd6059c42"
+    },
+    {
+        "path": "/media/posts/3/responsive/DriveControls-sm.png",
+        "type": "file",
+        "md5": "9709ba1751f1eb3accf3a16fd6059c42"
+    },
+    {
+        "path": "/media/posts/3/responsive/DriveControls-xl.png",
+        "type": "file",
+        "md5": "9709ba1751f1eb3accf3a16fd6059c42"
+    },
+    {
+        "path": "/media/posts/3/responsive/DriveControls-xs.png",
+        "type": "file",
+        "md5": "cf95f3e0eab1cd52daf502b3f07c615f"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/Daphne.png",
+        "type": "file",
+        "md5": "aaf6853c7cc20a316f87c69be1c6b613"
+    },
+    {
+        "path": "/media/posts/4/Eden.png",
+        "type": "file",
+        "md5": "db0279ddb89ea38c3d8b7bc5fa659a6e"
+    },
+    {
+        "path": "/media/posts/4/Eva.png",
+        "type": "file",
+        "md5": "de8d889753b7ca679e8f2afa5580e40f"
+    },
+    {
+        "path": "/media/posts/4/Francis.png",
+        "type": "file",
+        "md5": "7e3d7f9a376c7a1c626f0ac156b0ae56"
+    },
+    {
+        "path": "/media/posts/4/Mezel.png",
+        "type": "file",
+        "md5": "d5943730c6b4178ff7fb7d0301259dbb"
+    },
+    {
+        "path": "/media/posts/4/Mia.png",
+        "type": "file",
+        "md5": "a38f0d8c524863391126b75e24991f38"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/Daphne-2xl.png",
+        "type": "file",
+        "md5": "4788dd20ffa1e1e40be559601f6c88ad"
+    },
+    {
+        "path": "/media/posts/4/responsive/Daphne-lg.png",
+        "type": "file",
+        "md5": "4788dd20ffa1e1e40be559601f6c88ad"
+    },
+    {
+        "path": "/media/posts/4/responsive/Daphne-md.png",
+        "type": "file",
+        "md5": "4788dd20ffa1e1e40be559601f6c88ad"
+    },
+    {
+        "path": "/media/posts/4/responsive/Daphne-sm.png",
+        "type": "file",
+        "md5": "4788dd20ffa1e1e40be559601f6c88ad"
+    },
+    {
+        "path": "/media/posts/4/responsive/Daphne-xl.png",
+        "type": "file",
+        "md5": "4788dd20ffa1e1e40be559601f6c88ad"
+    },
+    {
+        "path": "/media/posts/4/responsive/Daphne-xs.png",
+        "type": "file",
+        "md5": "4788dd20ffa1e1e40be559601f6c88ad"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eden-2xl.png",
+        "type": "file",
+        "md5": "15a8dd0a15b0dc9521e88f6d2b727c03"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eden-lg.png",
+        "type": "file",
+        "md5": "15a8dd0a15b0dc9521e88f6d2b727c03"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eden-md.png",
+        "type": "file",
+        "md5": "15a8dd0a15b0dc9521e88f6d2b727c03"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eden-sm.png",
+        "type": "file",
+        "md5": "15a8dd0a15b0dc9521e88f6d2b727c03"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eden-xl.png",
+        "type": "file",
+        "md5": "15a8dd0a15b0dc9521e88f6d2b727c03"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eden-xs.png",
+        "type": "file",
+        "md5": "15a8dd0a15b0dc9521e88f6d2b727c03"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eva-2xl.png",
+        "type": "file",
+        "md5": "0266b01e912219764965e6b44d4d73ee"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eva-lg.png",
+        "type": "file",
+        "md5": "0266b01e912219764965e6b44d4d73ee"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eva-md.png",
+        "type": "file",
+        "md5": "0266b01e912219764965e6b44d4d73ee"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eva-sm.png",
+        "type": "file",
+        "md5": "0266b01e912219764965e6b44d4d73ee"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eva-xl.png",
+        "type": "file",
+        "md5": "0266b01e912219764965e6b44d4d73ee"
+    },
+    {
+        "path": "/media/posts/4/responsive/Eva-xs.png",
+        "type": "file",
+        "md5": "0266b01e912219764965e6b44d4d73ee"
+    },
+    {
+        "path": "/media/posts/4/responsive/Francis-2xl.png",
+        "type": "file",
+        "md5": "ad36905eefad02120f13daf964f030d1"
+    },
+    {
+        "path": "/media/posts/4/responsive/Francis-lg.png",
+        "type": "file",
+        "md5": "ad36905eefad02120f13daf964f030d1"
+    },
+    {
+        "path": "/media/posts/4/responsive/Francis-md.png",
+        "type": "file",
+        "md5": "ad36905eefad02120f13daf964f030d1"
+    },
+    {
+        "path": "/media/posts/4/responsive/Francis-sm.png",
+        "type": "file",
+        "md5": "ad36905eefad02120f13daf964f030d1"
+    },
+    {
+        "path": "/media/posts/4/responsive/Francis-xl.png",
+        "type": "file",
+        "md5": "ad36905eefad02120f13daf964f030d1"
+    },
+    {
+        "path": "/media/posts/4/responsive/Francis-xs.png",
+        "type": "file",
+        "md5": "ad36905eefad02120f13daf964f030d1"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mezel-2xl.png",
+        "type": "file",
+        "md5": "b51db0f09101d8290227bc372aa9754e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mezel-lg.png",
+        "type": "file",
+        "md5": "b51db0f09101d8290227bc372aa9754e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mezel-md.png",
+        "type": "file",
+        "md5": "b51db0f09101d8290227bc372aa9754e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mezel-sm.png",
+        "type": "file",
+        "md5": "b51db0f09101d8290227bc372aa9754e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mezel-xl.png",
+        "type": "file",
+        "md5": "b51db0f09101d8290227bc372aa9754e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mezel-xs.png",
+        "type": "file",
+        "md5": "b51db0f09101d8290227bc372aa9754e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mia-2xl.png",
+        "type": "file",
+        "md5": "2fa3f0099f3fb8720051320ab7a389c9"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mia-lg.png",
+        "type": "file",
+        "md5": "2fa3f0099f3fb8720051320ab7a389c9"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mia-md.png",
+        "type": "file",
+        "md5": "2fa3f0099f3fb8720051320ab7a389c9"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mia-sm.png",
+        "type": "file",
+        "md5": "2fa3f0099f3fb8720051320ab7a389c9"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mia-xl.png",
+        "type": "file",
+        "md5": "2fa3f0099f3fb8720051320ab7a389c9"
+    },
+    {
+        "path": "/media/posts/4/responsive/Mia-xs.png",
+        "type": "file",
+        "md5": "2fa3f0099f3fb8720051320ab7a389c9"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/H2O_EWT_Logo_3_colorb.svg",
+        "type": "file",
+        "md5": "eccc91528ee9a3b4a3f9945c499dfbc4"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/A2GO_v03.svg",
+        "type": "file",
+        "md5": "ea88a540d182b1b281ee5cba6f108e07"
+    },
+    {
+        "path": "meet-the-team",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/meet-the-team/index.html",
+        "type": "file",
+        "md5": "b990df86e3e7a9117e9dfddda0ecc1ab"
+    },
+    {
+        "path": "robot-controls",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/robot-controls/index.html",
+        "type": "file",
+        "md5": "c9cd7a485bc4d671f1ea6ccb678b3251"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b17d761d497a5ca29d635cc1c9d512ea"
+    },
+    {
+        "path": "sponsors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sponsors/index.html",
+        "type": "file",
+        "md5": "09c683029b35c8e3e7a4210aa7f6150d"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "8c4ea728bd05feb99d6ff2e354bddbbc"
+    }
+]
