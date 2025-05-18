@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b04c77fa5d981a3d866c48755058fd57"
+        "md5": "2ec21855720fd2b6877c2b930320a497"
     },
     {
         "path": "a2-go-robotics-team",
@@ -12,7 +12,7 @@
     {
         "path": "/a2-go-robotics-team/index.html",
         "type": "file",
-        "md5": "674879506f18926184986e6b89596ea6"
+        "md5": "2669c50a73fc2be4ed7cec778972bbe8"
     },
     {
         "path": "about-ftc",
@@ -22,7 +22,7 @@
     {
         "path": "/about-ftc/index.html",
         "type": "file",
-        "md5": "076c979924a9987cfe076957bf31eccf"
+        "md5": "1e1e1005d5704cbfd5a63f65336b93a6"
     },
     {
         "path": "assets",
@@ -102,12 +102,12 @@
     {
         "path": "/authors/francis-esmonde-white/index.html",
         "type": "file",
-        "md5": "f6d479517c71791920b4c6f1f0b9fcc8"
+        "md5": "aff6fd5026c6d48c8ef95aefe9929879"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "30d7265d027a440cef3494d41543e349"
+        "md5": "bf20ca0bc368cb646406ff5c639b51ac"
     },
     {
         "path": "links",
@@ -117,7 +117,7 @@
     {
         "path": "/links/index.html",
         "type": "file",
-        "md5": "62e12d2204812bea4837baf578a2b135"
+        "md5": "d2a70887d16c632e99aa756f37f73467"
     },
     {
         "path": "media",
@@ -602,7 +602,7 @@
     {
         "path": "/meet-the-team/index.html",
         "type": "file",
-        "md5": "b990df86e3e7a9117e9dfddda0ecc1ab"
+        "md5": "463707d244b18abaa3d9028d0e95876c"
     },
     {
         "path": "robot-controls",
@@ -612,7 +612,7 @@
     {
         "path": "/robot-controls/index.html",
         "type": "file",
-        "md5": "c9cd7a485bc4d671f1ea6ccb678b3251"
+        "md5": "a0d85cf4be1526d32507c346790fc926"
     },
     {
         "path": "robots.txt",
@@ -627,7 +627,7 @@
     {
         "path": "/sponsors/index.html",
         "type": "file",
-        "md5": "9bb32a0f52c1656162dc1c02d5f95a54"
+        "md5": "964099111d462a7dc13341ebb5cd734c"
     },
     {
         "path": "tags",
@@ -637,6 +637,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "8c4ea728bd05feb99d6ff2e354bddbbc"
+        "md5": "0b0e352d45b7f116bd9c29c0e4c4d733"
     }
 ]
