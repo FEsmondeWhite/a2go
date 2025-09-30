@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "f71aa8966650443a11276368bd9fb8f3"
+        "md5": "f0a0f6735ef956b0edc0d23fc39492ea"
     },
     {
         "path": "a2-go-robotics-team",
@@ -12,7 +12,7 @@
     {
         "path": "/a2-go-robotics-team/index.html",
         "type": "file",
-        "md5": "4056a21a8925e55b924f6aa53813688a"
+        "md5": "44c20b22ca4007aa902cf3d3ee16a5e4"
     },
     {
         "path": "about-ftc",
@@ -22,7 +22,7 @@
     {
         "path": "/about-ftc/index.html",
         "type": "file",
-        "md5": "896891820758b1d016bf2d153d90cb0f"
+        "md5": "b54088a77ef2bf5c9f6053514dc9b269"
     },
     {
         "path": "assets",
@@ -102,7 +102,7 @@
     {
         "path": "/authors/daphne-e-w/index.html",
         "type": "file",
-        "md5": "d98e73ea9b8bf2bcfa5f5e283e7abee7"
+        "md5": "8501599ed85c319e7ab56fb3d4d8aeef"
     },
     {
         "path": "authors/francis-esmonde-white",
@@ -112,12 +112,12 @@
     {
         "path": "/authors/francis-esmonde-white/index.html",
         "type": "file",
-        "md5": "73e8a87f33945076403ca9931e823a8c"
+        "md5": "008cc4bccbbd5c145013c6b6d6bf0767"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d215ca63773f3552930fb7b28d48ed38"
+        "md5": "17b8d0b06e6134620d83c7e36ad72a2b"
     },
     {
         "path": "links",
@@ -127,7 +127,7 @@
     {
         "path": "/links/index.html",
         "type": "file",
-        "md5": "6477d36bed0ad43ab7a824dcf00d9930"
+        "md5": "c66718c473a6bad9be324698bd35ac58"
     },
     {
         "path": "media",
@@ -727,7 +727,7 @@
     {
         "path": "/meet-the-team/index.html",
         "type": "file",
-        "md5": "d76ef2a93a099f43181bc9fb1cbbc60c"
+        "md5": "0d0bbc4bff886a716c1de39ab518ea62"
     },
     {
         "path": "our-open-team-resources",
@@ -737,7 +737,7 @@
     {
         "path": "/our-open-team-resources/index.html",
         "type": "file",
-        "md5": "d1fd66ce0fdaa396ab8118c20af67880"
+        "md5": "1752f6c5d24fdde8c8987286be17ef7f"
     },
     {
         "path": "practice-log",
@@ -747,7 +747,7 @@
     {
         "path": "/practice-log/index.html",
         "type": "file",
-        "md5": "a4e2aa3ef60417af5d39a777ef16d8d1"
+        "md5": "0051c7b7d47b30648fa0eb5217d1683e"
     },
     {
         "path": "robot-controls",
@@ -757,7 +757,7 @@
     {
         "path": "/robot-controls/index.html",
         "type": "file",
-        "md5": "e94c6abcaab5198ff860291f128f1e45"
+        "md5": "960e21922c46fa10cfa8486f442c1339"
     },
     {
         "path": "robots.txt",
@@ -772,7 +772,7 @@
     {
         "path": "/sponsors/index.html",
         "type": "file",
-        "md5": "14795263a9d235aa3fda8810d227ffac"
+        "md5": "0e139b1dff381cbfda6402859a95650d"
     },
     {
         "path": "tags",
@@ -787,7 +787,7 @@
     {
         "path": "/tags/ball_id/index.html",
         "type": "file",
-        "md5": "5869dc3e5ec3a0e82135f2bcdc18f1e9"
+        "md5": "4025142579b0162bb7cc69e290680b4e"
     },
     {
         "path": "tags/blockscode",
@@ -797,7 +797,7 @@
     {
         "path": "/tags/blockscode/index.html",
         "type": "file",
-        "md5": "b0f7671aff2ba97c5a5bb113f4bbe717"
+        "md5": "4ed3255d5f14250ced517892cf7ba0ce"
     },
     {
         "path": "tags/colorsensor",
@@ -807,11 +807,11 @@
     {
         "path": "/tags/colorsensor/index.html",
         "type": "file",
-        "md5": "c565795f685174d5002789b378942583"
+        "md5": "5a45b678f97c6d012cf14f8d37043ab7"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "fd3b1ad1c8d2b12253e0d3562f7ba879"
+        "md5": "fae90a4b4832e1a42fd1a174f9ec6886"
     }
 ]
