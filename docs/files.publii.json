@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "f0a0f6735ef956b0edc0d23fc39492ea"
+        "md5": "c14956c223d0a3f2a504ae55e64dcbeb"
     },
     {
         "path": "a2-go-robotics-team",
@@ -12,7 +12,7 @@
     {
         "path": "/a2-go-robotics-team/index.html",
         "type": "file",
-        "md5": "44c20b22ca4007aa902cf3d3ee16a5e4"
+        "md5": "84217d7d2d2beb7951c1b4e693ede41b"
     },
     {
         "path": "about-ftc",
@@ -22,7 +22,7 @@
     {
         "path": "/about-ftc/index.html",
         "type": "file",
-        "md5": "b54088a77ef2bf5c9f6053514dc9b269"
+        "md5": "28ccce2efecf862a68c5d6bbc4846721"
     },
     {
         "path": "assets",
@@ -102,7 +102,7 @@
     {
         "path": "/authors/daphne-e-w/index.html",
         "type": "file",
-        "md5": "8501599ed85c319e7ab56fb3d4d8aeef"
+        "md5": "a46a829ae1e7db494af46e444abaf648"
     },
     {
         "path": "authors/francis-esmonde-white",
@@ -112,12 +112,22 @@
     {
         "path": "/authors/francis-esmonde-white/index.html",
         "type": "file",
-        "md5": "008cc4bccbbd5c145013c6b6d6bf0767"
+        "md5": "26b06aab5c4ff983ef940836cda4cd70"
+    },
+    {
+        "path": "event-calendar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/event-calendar/index.html",
+        "type": "file",
+        "md5": "566ab114a3327a3213bc4d8a29b94ba9"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "17b8d0b06e6134620d83c7e36ad72a2b"
+        "md5": "a99fcf2f79ac7c93ffe4c6f07242eb6b"
     },
     {
         "path": "links",
@@ -127,7 +137,7 @@
     {
         "path": "/links/index.html",
         "type": "file",
-        "md5": "c66718c473a6bad9be324698bd35ac58"
+        "md5": "560d66bbf0d690d43075e8aebc7abd12"
     },
     {
         "path": "media",
@@ -727,7 +737,7 @@
     {
         "path": "/meet-the-team/index.html",
         "type": "file",
-        "md5": "0d0bbc4bff886a716c1de39ab518ea62"
+        "md5": "7978fc87e0fa2a7791887bfe74bf2db2"
     },
     {
         "path": "our-open-team-resources",
@@ -737,7 +747,7 @@
     {
         "path": "/our-open-team-resources/index.html",
         "type": "file",
-        "md5": "1752f6c5d24fdde8c8987286be17ef7f"
+        "md5": "9813897a487f298aeb5f4b1c8f1c95a9"
     },
     {
         "path": "practice-log",
@@ -747,7 +757,7 @@
     {
         "path": "/practice-log/index.html",
         "type": "file",
-        "md5": "0051c7b7d47b30648fa0eb5217d1683e"
+        "md5": "957e4c8d652dd7117f6dc411c60a496f"
     },
     {
         "path": "robot-controls",
@@ -757,7 +767,7 @@
     {
         "path": "/robot-controls/index.html",
         "type": "file",
-        "md5": "960e21922c46fa10cfa8486f442c1339"
+        "md5": "73b736a23c62582ed1d6b5ca6a251f02"
     },
     {
         "path": "robots.txt",
@@ -772,7 +782,7 @@
     {
         "path": "/sponsors/index.html",
         "type": "file",
-        "md5": "0e139b1dff381cbfda6402859a95650d"
+        "md5": "e307cc380acdf42c745aab698e65c468"
     },
     {
         "path": "tags",
@@ -787,7 +797,7 @@
     {
         "path": "/tags/ball_id/index.html",
         "type": "file",
-        "md5": "4025142579b0162bb7cc69e290680b4e"
+        "md5": "339c0bba05ae502d6d36086e72c4d4df"
     },
     {
         "path": "tags/blockscode",
@@ -797,7 +807,7 @@
     {
         "path": "/tags/blockscode/index.html",
         "type": "file",
-        "md5": "4ed3255d5f14250ced517892cf7ba0ce"
+        "md5": "6eb746bc52b5a9af87e5ebe97e82ed98"
     },
     {
         "path": "tags/colorsensor",
@@ -807,11 +817,11 @@
     {
         "path": "/tags/colorsensor/index.html",
         "type": "file",
-        "md5": "5a45b678f97c6d012cf14f8d37043ab7"
+        "md5": "2a91315bca7f14a769bc6c35c258744c"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "fae90a4b4832e1a42fd1a174f9ec6886"
+        "md5": "03599de1a04c8201b2d8ff584f4608a9"
     }
 ]
