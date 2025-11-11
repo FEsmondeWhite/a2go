@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c14956c223d0a3f2a504ae55e64dcbeb"
+        "md5": "ba1e2b63332b1107b98f797f1b36b49c"
     },
     {
         "path": "a2-go-robotics-team",
@@ -12,7 +12,27 @@
     {
         "path": "/a2-go-robotics-team/index.html",
         "type": "file",
-        "md5": "4e92a5532455fa6ad0a4aa838d578936"
+        "md5": "76b9e473ac0f492721da8937797aa6b0"
+    },
+    {
+        "path": "A2GO-Portfolio_2025-11-08.pdf",
+        "type": "file",
+        "md5": "e8cb2d912fe89e031485e83587358e23"
+    },
+    {
+        "path": "A2GoCustomBlocks.java",
+        "type": "file",
+        "md5": "b6f823c176bfd2513888edb1952cb1b1"
+    },
+    {
+        "path": "about-a2go",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-a2go/index.html",
+        "type": "file",
+        "md5": "a0c4d6610e5bd85b12830f7315d1359c"
     },
     {
         "path": "about-ftc",
@@ -22,7 +42,7 @@
     {
         "path": "/about-ftc/index.html",
         "type": "file",
-        "md5": "28ccce2efecf862a68c5d6bbc4846721"
+        "md5": "1234d0e2788e60986bec95a9af5e037e"
     },
     {
         "path": "assets",
@@ -47,7 +67,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "68ebef1b1675aa1aa577c9edb366f816"
+        "md5": "5c491f8f5e60905989ed09846d6a01f2"
     },
     {
         "path": "assets/dynamic",
@@ -102,7 +122,7 @@
     {
         "path": "/authors/daphne-e-w/index.html",
         "type": "file",
-        "md5": "f536120459f8a100bda81b787da81bd3"
+        "md5": "48e1ca568526f45a6c82d9a9ea45e2f3"
     },
     {
         "path": "authors/francis-esmonde-white",
@@ -112,7 +132,22 @@
     {
         "path": "/authors/francis-esmonde-white/index.html",
         "type": "file",
-        "md5": "9829b98f0bf9973a23a14a8866d58952"
+        "md5": "0d1cb69790a24a2379a25b1f4a3a64c6"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "e13af37712794bd23fdd60d7cb5d3a23"
+    },
+    {
+        "path": "Drive_Code_11_02.blk",
+        "type": "file",
+        "md5": "ec81f08a7fc9ee1ff37e1a840fa0921f"
     },
     {
         "path": "event-calendar",
@@ -122,7 +157,17 @@
     {
         "path": "/event-calendar/index.html",
         "type": "file",
-        "md5": "566ab114a3327a3213bc4d8a29b94ba9"
+        "md5": "541e82ee12745653be3ba02ce2f4949c"
+    },
+    {
+        "path": "gobot-meet-snowbot",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/gobot-meet-snowbot/index.html",
+        "type": "file",
+        "md5": "db37c94ab2085092f035a187878f8a8d"
     },
     {
         "path": "greenhills-mscrl-league-game",
@@ -132,12 +177,12 @@
     {
         "path": "/greenhills-mscrl-league-game/index.html",
         "type": "file",
-        "md5": "6dc5651dfe72022f4fb0d191f04ca7e9"
+        "md5": "0203c73bbf6f5dee77981a00c39c2a94"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "886418be50256ee3b4e47dd1130297bc"
+        "md5": "b203d32855b6e5bd951a0c4b38f6889a"
     },
     {
         "path": "links",
@@ -147,7 +192,7 @@
     {
         "path": "/links/index.html",
         "type": "file",
-        "md5": "560d66bbf0d690d43075e8aebc7abd12"
+        "md5": "98f1d2af86d8138d9488141d4e70e4d8"
     },
     {
         "path": "media",
@@ -318,6 +363,386 @@
         "path": "/media/posts/11/responsive/Greenhills_kickoff-xs.jpg",
         "type": "file",
         "md5": "b5f475f70ddd1a5b8009f6425bdf6838"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/IMG_20251105_220351747_HDR-EDIT.jpg",
+        "type": "file",
+        "md5": "864ecca02b2209cfde0f147fe5292423"
+    },
+    {
+        "path": "/media/posts/12/IMG_20251108_075055187_HDR.jpg",
+        "type": "file",
+        "md5": "f086dcb1931505f302a1cfde8a3637ae"
+    },
+    {
+        "path": "/media/posts/12/IMG_20251108_084631339_HDR.jpg",
+        "type": "file",
+        "md5": "cb35197c4c08c65b3569aefe0ea2696e"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251105_220351747_HDR-EDIT-2xl.jpg",
+        "type": "file",
+        "md5": "5e0e05dbae871393020abc39da4e8967"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251105_220351747_HDR-EDIT-lg.jpg",
+        "type": "file",
+        "md5": "1852eb41bd221114d82ef6e7cf4b56f1"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251105_220351747_HDR-EDIT-md.jpg",
+        "type": "file",
+        "md5": "b4c575768af3035c85d159b2f1529ca6"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251105_220351747_HDR-EDIT-sm.jpg",
+        "type": "file",
+        "md5": "0ddcd8407559ffa68821196b40a5c628"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251105_220351747_HDR-EDIT-xl.jpg",
+        "type": "file",
+        "md5": "eb6cdeccae111fb453cd06a757822c2d"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251105_220351747_HDR-EDIT-xs.jpg",
+        "type": "file",
+        "md5": "a17a62612f4fcb1c8148210203911d89"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_075055187_HDR-2xl.jpg",
+        "type": "file",
+        "md5": "8638609b14d55d2ced5d271d6ac68392"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_075055187_HDR-lg.jpg",
+        "type": "file",
+        "md5": "8bc987c65b96ef232c9299f961ed2b86"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_075055187_HDR-md.jpg",
+        "type": "file",
+        "md5": "055a7e62cf006772aa456aafac8fbf06"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_075055187_HDR-sm.jpg",
+        "type": "file",
+        "md5": "8e5522041018cce6f9ebf2f854fb7ca4"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_075055187_HDR-xl.jpg",
+        "type": "file",
+        "md5": "67b05d6275e1b9f9411d2cc6a09f4d76"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_075055187_HDR-xs.jpg",
+        "type": "file",
+        "md5": "4c98c3d5336b35658278d79b3ae425ed"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_084631339_HDR-2xl.jpg",
+        "type": "file",
+        "md5": "73932fc56e03e3492aeda8bd58da22a6"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_084631339_HDR-lg.jpg",
+        "type": "file",
+        "md5": "11549600d12061e0387e73735b250647"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_084631339_HDR-md.jpg",
+        "type": "file",
+        "md5": "051e74328d0388e38e2ac68fe2735027"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_084631339_HDR-sm.jpg",
+        "type": "file",
+        "md5": "7950df8c0d7892ad6a3cefae4646a209"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_084631339_HDR-xl.jpg",
+        "type": "file",
+        "md5": "2879ba37068f9f8d73b6b80bf49b91d9"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_20251108_084631339_HDR-xs.jpg",
+        "type": "file",
+        "md5": "d86e5984a84d25f1928e2b3d67e9722c"
+    },
+    {
+        "path": "/media/posts/12/responsive/Robot-Rescue-2xl.jpg",
+        "type": "file",
+        "md5": "6b651ef8717b7bfc56af70b65eebe523"
+    },
+    {
+        "path": "/media/posts/12/responsive/Robot-Rescue-lg.jpg",
+        "type": "file",
+        "md5": "64cefff67073205a5987d98916b6a84c"
+    },
+    {
+        "path": "/media/posts/12/responsive/Robot-Rescue-md.jpg",
+        "type": "file",
+        "md5": "eaf40ccef545b34310595199b2355bea"
+    },
+    {
+        "path": "/media/posts/12/responsive/Robot-Rescue-sm.jpg",
+        "type": "file",
+        "md5": "04d53bdd927c51e5aec4fc1dc4a2336e"
+    },
+    {
+        "path": "/media/posts/12/responsive/Robot-Rescue-xl.jpg",
+        "type": "file",
+        "md5": "2c0f17c08ff29fd2f700fb6d73f3c757"
+    },
+    {
+        "path": "/media/posts/12/responsive/Robot-Rescue-xs.jpg",
+        "type": "file",
+        "md5": "3cb2962e975089ce01e9222748cea78d"
+    },
+    {
+        "path": "/media/posts/12/Robot-Rescue.jpg",
+        "type": "file",
+        "md5": "4202e7a2f722e10e156d2431d485bbd1"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/A2Go-Team-with-robot.jpg",
+        "type": "file",
+        "md5": "8c6dfb069c95f904330dbeca24e0dd1e"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/A2Go-Team-with-robot-2xl.jpg",
+        "type": "file",
+        "md5": "9b7dc23785091b38754c10cc97712323"
+    },
+    {
+        "path": "/media/posts/16/responsive/A2Go-Team-with-robot-lg.jpg",
+        "type": "file",
+        "md5": "7b6eaeb9ac666ff6e597904edb5540fd"
+    },
+    {
+        "path": "/media/posts/16/responsive/A2Go-Team-with-robot-md.jpg",
+        "type": "file",
+        "md5": "b0d7360b61131d1672c870d8d1725e9c"
+    },
+    {
+        "path": "/media/posts/16/responsive/A2Go-Team-with-robot-sm.jpg",
+        "type": "file",
+        "md5": "a080fe87aa9b293d6afd4906de09d935"
+    },
+    {
+        "path": "/media/posts/16/responsive/A2Go-Team-with-robot-xl.jpg",
+        "type": "file",
+        "md5": "f5bd399166ceeacc792d2fe7bd848c43"
+    },
+    {
+        "path": "/media/posts/16/responsive/A2Go-Team-with-robot-xs.jpg",
+        "type": "file",
+        "md5": "e7103a251485e9347495482b5aaddd36"
+    },
+    {
+        "path": "/media/posts/16/responsive/Snowbot-2xl.jpg",
+        "type": "file",
+        "md5": "f611b1112e8b1cc170feeaabc6924079"
+    },
+    {
+        "path": "/media/posts/16/responsive/Snowbot-lg.jpg",
+        "type": "file",
+        "md5": "83358494d7e202977ebdde39371a52ac"
+    },
+    {
+        "path": "/media/posts/16/responsive/Snowbot-md.jpg",
+        "type": "file",
+        "md5": "433136f40514ff1ac87962be0e266345"
+    },
+    {
+        "path": "/media/posts/16/responsive/Snowbot-sm.jpg",
+        "type": "file",
+        "md5": "6dc2315499feb7d61d135bf9a68ad159"
+    },
+    {
+        "path": "/media/posts/16/responsive/Snowbot-xl.jpg",
+        "type": "file",
+        "md5": "5a07f260d9bc21d4161faa17a7783151"
+    },
+    {
+        "path": "/media/posts/16/responsive/Snowbot-xs.jpg",
+        "type": "file",
+        "md5": "1983a43ece7aa7f60b5128457fad2ad2"
+    },
+    {
+        "path": "/media/posts/16/Snowbot.jpg",
+        "type": "file",
+        "md5": "d80e07c69b9cfa4d39c7a3bb01dd7a25"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/IMG_20250812_194516115_HDR.jpg",
+        "type": "file",
+        "md5": "8c9948c520595d391134d31e375d53c0"
+    },
+    {
+        "path": "/media/posts/2/IMG_20251101_144041107~21.jpg",
+        "type": "file",
+        "md5": "126fc17ab61938e074d1c9e4c0fba6f5"
+    },
+    {
+        "path": "/media/posts/2/IMG_20251108_150521705_HDR.jpg",
+        "type": "file",
+        "md5": "e14687bf76e6dc1236e98887a2e362d4"
+    },
+    {
+        "path": "/media/posts/2/IMG_20251108_153830559_HDR-EDIT.jpg",
+        "type": "file",
+        "md5": "a17d4c5ff6f90ba565fcf51de95405be"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20250812_194516115_HDR-2xl.jpg",
+        "type": "file",
+        "md5": "935e8541b21989d654e778fced3dede2"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20250812_194516115_HDR-lg.jpg",
+        "type": "file",
+        "md5": "d221de5f929182bfaec1a73625e5fa55"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20250812_194516115_HDR-md.jpg",
+        "type": "file",
+        "md5": "b1dc0688b3abaf9781c73c3371eccec8"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20250812_194516115_HDR-sm.jpg",
+        "type": "file",
+        "md5": "53973c0baec61a950822187b6448618f"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20250812_194516115_HDR-xl.jpg",
+        "type": "file",
+        "md5": "63bb51692549f9efdaf93593aca19639"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20250812_194516115_HDR-xs.jpg",
+        "type": "file",
+        "md5": "82b1e1638c52e2f0bda9a7ed6331c9db"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251101_144041107~21-2xl.jpg",
+        "type": "file",
+        "md5": "505050cd03a1aa499ad635d6d3645fa2"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251101_144041107~21-lg.jpg",
+        "type": "file",
+        "md5": "f70e929416a5786e3eaefaff5ea0480a"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251101_144041107~21-md.jpg",
+        "type": "file",
+        "md5": "615f5b39ec7e17c5c4d0f96da8112930"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251101_144041107~21-sm.jpg",
+        "type": "file",
+        "md5": "85470e027e561e737ec6d7abafb6bae9"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251101_144041107~21-xl.jpg",
+        "type": "file",
+        "md5": "505050cd03a1aa499ad635d6d3645fa2"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251101_144041107~21-xs.jpg",
+        "type": "file",
+        "md5": "6d195475e2281bc79a2203e572358ad7"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_150521705_HDR-2xl.jpg",
+        "type": "file",
+        "md5": "78bd86880e67a944bbdd12c2786ab1ff"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_150521705_HDR-lg.jpg",
+        "type": "file",
+        "md5": "29e39a76f27f5dd64e454f1efebac3c6"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_150521705_HDR-md.jpg",
+        "type": "file",
+        "md5": "f38f05a2802f7b8659b6ade893021bc5"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_150521705_HDR-sm.jpg",
+        "type": "file",
+        "md5": "521628d29a1da76e00ec8cc03020d62c"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_150521705_HDR-xl.jpg",
+        "type": "file",
+        "md5": "0837ab5721ce392b4b7f8ba133b8a21d"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_150521705_HDR-xs.jpg",
+        "type": "file",
+        "md5": "54e486406ce620280a66865b9d52d9cd"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_153830559_HDR-EDIT-2xl.jpg",
+        "type": "file",
+        "md5": "6d5fe4cc287f11b24b309bdb8171c037"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_153830559_HDR-EDIT-lg.jpg",
+        "type": "file",
+        "md5": "b34822337864a9a63d79e4669d9c9154"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_153830559_HDR-EDIT-md.jpg",
+        "type": "file",
+        "md5": "8f4a5de4903261a66873ba80600f7808"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_153830559_HDR-EDIT-sm.jpg",
+        "type": "file",
+        "md5": "0809cc86b275843c077b998190283da1"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_153830559_HDR-EDIT-xl.jpg",
+        "type": "file",
+        "md5": "a5ce3923848b49deedb1a964bd4dcfec"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_20251108_153830559_HDR-EDIT-xs.jpg",
+        "type": "file",
+        "md5": "fd10a65ca6d15f249a0b258d48f642b1"
     },
     {
         "path": "media/posts/3",
@@ -635,6 +1060,11 @@
         "md5": "836861d51144d5ade084b4cfcb0d9b14"
     },
     {
+        "path": "/media/posts/6/PrintCitee_b.jpg",
+        "type": "file",
+        "md5": "87fb9c13c153c675440d3740fe482017"
+    },
+    {
         "path": "media/posts/6/responsive",
         "type": "directory",
         "md5": false
@@ -668,6 +1098,36 @@
         "path": "/media/posts/6/responsive/5-xs.png",
         "type": "file",
         "md5": "949da176c473de3282472148178658d2"
+    },
+    {
+        "path": "/media/posts/6/responsive/PrintCitee_b-2xl.jpg",
+        "type": "file",
+        "md5": "a754049b632c2d4b39f9d9c43f9c4920"
+    },
+    {
+        "path": "/media/posts/6/responsive/PrintCitee_b-lg.jpg",
+        "type": "file",
+        "md5": "a754049b632c2d4b39f9d9c43f9c4920"
+    },
+    {
+        "path": "/media/posts/6/responsive/PrintCitee_b-md.jpg",
+        "type": "file",
+        "md5": "a754049b632c2d4b39f9d9c43f9c4920"
+    },
+    {
+        "path": "/media/posts/6/responsive/PrintCitee_b-sm.jpg",
+        "type": "file",
+        "md5": "a754049b632c2d4b39f9d9c43f9c4920"
+    },
+    {
+        "path": "/media/posts/6/responsive/PrintCitee_b-xl.jpg",
+        "type": "file",
+        "md5": "a754049b632c2d4b39f9d9c43f9c4920"
+    },
+    {
+        "path": "/media/posts/6/responsive/PrintCitee_b-xs.jpg",
+        "type": "file",
+        "md5": "a754049b632c2d4b39f9d9c43f9c4920"
     },
     {
         "path": "/media/posts/6/responsive/The-Himalayan-Bazaar-2xl.jpg",
@@ -830,6 +1290,46 @@
         "md5": "ea88a540d182b1b281ee5cba6f108e07"
     },
     {
+        "path": "/media/website/GLBR-TeamWinning-2.jpg",
+        "type": "file",
+        "md5": "68c5f188186f5fc23d15a7041144e8ec"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/GLBR-TeamWinning-2-2xl.jpg",
+        "type": "file",
+        "md5": "b658d4a8ede37c7db7d53084221b90a9"
+    },
+    {
+        "path": "/media/website/responsive/GLBR-TeamWinning-2-lg.jpg",
+        "type": "file",
+        "md5": "c505a66c9c02769e6d51120702899055"
+    },
+    {
+        "path": "/media/website/responsive/GLBR-TeamWinning-2-md.jpg",
+        "type": "file",
+        "md5": "6e2fa7662a5240097533c94952ee8c85"
+    },
+    {
+        "path": "/media/website/responsive/GLBR-TeamWinning-2-sm.jpg",
+        "type": "file",
+        "md5": "123c2deffa53eeb65310c4284f1afa56"
+    },
+    {
+        "path": "/media/website/responsive/GLBR-TeamWinning-2-xl.jpg",
+        "type": "file",
+        "md5": "b658d4a8ede37c7db7d53084221b90a9"
+    },
+    {
+        "path": "/media/website/responsive/GLBR-TeamWinning-2-xs.jpg",
+        "type": "file",
+        "md5": "0ccd81260d54290ae4eaa5619d55abf4"
+    },
+    {
         "path": "meet-the-team",
         "type": "directory",
         "md5": false
@@ -837,7 +1337,7 @@
     {
         "path": "/meet-the-team/index.html",
         "type": "file",
-        "md5": "7978fc87e0fa2a7791887bfe74bf2db2"
+        "md5": "7793e278895adae0d41d2af7436a2d51"
     },
     {
         "path": "our-open-team-resources",
@@ -847,7 +1347,7 @@
     {
         "path": "/our-open-team-resources/index.html",
         "type": "file",
-        "md5": "9813897a487f298aeb5f4b1c8f1c95a9"
+        "md5": "739c64e337a1e033403621a988b53928"
     },
     {
         "path": "practice-log",
@@ -857,7 +1357,7 @@
     {
         "path": "/practice-log/index.html",
         "type": "file",
-        "md5": "3e50762c58fca0ca03b2227d219d1271"
+        "md5": "2578a05ea6fa2a83bdc2df87d29ea2ac"
     },
     {
         "path": "robot-controls",
@@ -867,7 +1367,17 @@
     {
         "path": "/robot-controls/index.html",
         "type": "file",
-        "md5": "73b736a23c62582ed1d6b5ca6a251f02"
+        "md5": "a14ca0566771c0a8f7e2c8c1cf9d1571"
+    },
+    {
+        "path": "robot-first-aid",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/robot-first-aid/index.html",
+        "type": "file",
+        "md5": "d6405e6800896fe3ead8de5cb721c751"
     },
     {
         "path": "robots.txt",
@@ -882,7 +1392,7 @@
     {
         "path": "/slow-going/index.html",
         "type": "file",
-        "md5": "3527b36d5ce6c24843d17bf0cdff09cd"
+        "md5": "b5609fd0e170a3cd772009fb01cb17aa"
     },
     {
         "path": "sponsors",
@@ -892,7 +1402,17 @@
     {
         "path": "/sponsors/index.html",
         "type": "file",
-        "md5": "e307cc380acdf42c745aab698e65c468"
+        "md5": "f57df14fe247aee758594e4932a4d0f4"
+    },
+    {
+        "path": "sponsorship",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sponsorship/index.html",
+        "type": "file",
+        "md5": "a25bdf592bdc21bc375be16e9d3f6a44"
     },
     {
         "path": "tags",
@@ -907,7 +1427,7 @@
     {
         "path": "/tags/ball_id/index.html",
         "type": "file",
-        "md5": "339c0bba05ae502d6d36086e72c4d4df"
+        "md5": "3c44601eeb814578bcc7a5cf6de1f0f5"
     },
     {
         "path": "tags/blockscode",
@@ -917,7 +1437,7 @@
     {
         "path": "/tags/blockscode/index.html",
         "type": "file",
-        "md5": "6eb746bc52b5a9af87e5ebe97e82ed98"
+        "md5": "1171eb7ea0ed0ec79cd9ed8f9bff230e"
     },
     {
         "path": "tags/colorsensor",
@@ -927,11 +1447,11 @@
     {
         "path": "/tags/colorsensor/index.html",
         "type": "file",
-        "md5": "2a91315bca7f14a769bc6c35c258744c"
+        "md5": "406127c119d68853f5796334843cd4fa"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "03599de1a04c8201b2d8ff584f4608a9"
+        "md5": "a08aec19e69b363b853e451c083ca22c"
     }
 ]
