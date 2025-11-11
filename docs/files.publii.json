@@ -15,16 +15,6 @@
         "md5": "76b9e473ac0f492721da8937797aa6b0"
     },
     {
-        "path": "A2GO-Portfolio_2025-11-08.pdf",
-        "type": "file",
-        "md5": "e8cb2d912fe89e031485e83587358e23"
-    },
-    {
-        "path": "A2GoCustomBlocks.java",
-        "type": "file",
-        "md5": "b6f823c176bfd2513888edb1952cb1b1"
-    },
-    {
         "path": "about-a2go",
         "type": "directory",
         "md5": false
@@ -145,11 +135,6 @@
         "md5": "e13af37712794bd23fdd60d7cb5d3a23"
     },
     {
-        "path": "Drive_Code_11_02.blk",
-        "type": "file",
-        "md5": "ec81f08a7fc9ee1ff37e1a840fa0921f"
-    },
-    {
         "path": "event-calendar",
         "type": "directory",
         "md5": false
@@ -182,7 +167,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b203d32855b6e5bd951a0c4b38f6889a"
+        "md5": "4f26ade54ab24ad4ed610c0f10f27092"
     },
     {
         "path": "links",
@@ -198,6 +183,26 @@
         "path": "media",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/A2GO-Portfolio_2025-11-08.pdf",
+        "type": "file",
+        "md5": "e8cb2d912fe89e031485e83587358e23"
+    },
+    {
+        "path": "/media/files/A2GoCustomBlocks.java",
+        "type": "file",
+        "md5": "b6f823c176bfd2513888edb1952cb1b1"
+    },
+    {
+        "path": "/media/files/Drive_Code_11_02.blk",
+        "type": "file",
+        "md5": "ec81f08a7fc9ee1ff37e1a840fa0921f"
     },
     {
         "path": "media/posts",
@@ -1347,7 +1352,7 @@
     {
         "path": "/our-open-team-resources/index.html",
         "type": "file",
-        "md5": "739c64e337a1e033403621a988b53928"
+        "md5": "a9e6426274388925677d7d2db15028af"
     },
     {
         "path": "practice-log",
